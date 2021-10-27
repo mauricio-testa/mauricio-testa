@@ -1,16 +1,14 @@
-### Hi there 👋
+## Olá, me chamo Mauricio!
 
-<!--
-**mauricio-testa/mauricio-testa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Sou graduado em Sistemas de Informação pela ULBRA - Universidade Luterana do Brasil
+- 💼 Trabalho atualmente desenvolvendo e aprimorando produtos para a [Builderall](http://builderall.com/)
+- 🔥 Alguns projetos públicos que contribuo são o [Builderall Vue UI](https://github.com/mauricio-testa/builderall-vue-ui) e o [Cheetah para WordPress](https://wordpress.org/plugins/builderall-cheetah-for-wp/)
+- 🔨 As tecnologias que mais utilizo são VueJs, Laravel e jQuery
 
-Here are some ideas to get you started:
+### Vamos conversar?
+[![LinkedIn](https://img.shields.io/badge/linkedin-836FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/gustavo-neitzke)
+[![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://youtube.com/gustavoneitzke)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gutoneitzke)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 
+![Mauricio GitHub stats](https://github-readme-stats.vercel.app/api?username=mauricio-testa&show_icons=true&theme=tokyonight&count_private=true)
