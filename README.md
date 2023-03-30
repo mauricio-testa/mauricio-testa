@@ -9,11 +9,3 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-836FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-testa/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mauricio.testa.97/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omauriciotesta/)
-
-## 
-<div align="center">
-  <a href="https://github.com/MuriloPerosa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauricio-testa&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-testa&layout=compact&langs_count=4&theme=dark"/>
-</div>
-
